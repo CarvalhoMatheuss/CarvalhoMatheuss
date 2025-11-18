@@ -70,7 +70,7 @@ Projeto com diagramas e documentação — perfeito para treinar modelagem, flux
 ---
 
 <!-- Link para a versão raw (melhor compatibilidade) -->
-![Snake animation](https://raw.githubusercontent.com/CarvalhoMatheuss/CarvalhoMatheuss/output/github-contribution-grid-snake-dark.svg)
+![Snake dark](./output/github-contribution-grid-snake-dark.svg)
 
 ---
 

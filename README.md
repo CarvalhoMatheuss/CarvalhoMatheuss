@@ -1,8 +1,8 @@
-# 👋 Opa! Eu sou o Matheus Carvalho
+# 👋 Ei! Eu sou o Matheus Carvalho
 
-> Estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas**  
-> Explorando o mundo do **Front-end**, **Análise de Dados** e agora mergulhando no **Java** ☕🐍  
-> Aqui você vai encontrar meus projetos, experimentos e muita coisa feita no processo de aprendizado.
+> Estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas**, com formação prévia em Serviço Social.  
+> Explorando o mundo do **Front-end**, **Análise de Dados** e **Java** ☕🐍  
+> Aqui você vai encontrar meus projetos, experimentos e algumas coisas feitas no processo de aprendizado.
 
 ---
 
@@ -51,6 +51,7 @@ Projeto com diagramas e documentação — perfeito para treinar modelagem, flux
 - **CSS**
 - **Markdown / Mermaid**
 - **Git & GitHub**
+- **JAVA**
 
 ### **📚 Estudando Atualmente**
 - **Java** (POO, modularização, listas e boas práticas)  
@@ -67,10 +68,6 @@ Projeto com diagramas e documentação — perfeito para treinar modelagem, flux
 - Desenvolver projetos que unam front-end + lógica + back-end básico
 
 ---
-
-## 🐍 Minha contribuição (Snake animation)
-Abaixo está a animação da cobrinha que "come" seu gráfico de contribuições.  
-> Obs: o arquivo SVG é gerado automaticamente por um GitHub Action e fica em `output/`. Se o gif/SVG não aparecer imediatamente, rode o workflow manualmente em **Actions**.
 
 <!-- Link para a versão raw (melhor compatibilidade) -->
 ![Snake animation](https://raw.githubusercontent.com/CarvalhoMatheuss/CarvalhoMatheuss/output/github-contribution-grid-snake-dark.svg)
@@ -96,4 +93,4 @@ Estou sempre aberto a aprender mais com a comunidade 🚀
 
 ---
 
-✌️ *Valeu por passar aqui! Sempre tem algo novo chegando…*
+✌️

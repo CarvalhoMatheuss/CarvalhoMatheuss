@@ -24,9 +24,9 @@ Pequeno quiz para testar conhecimentos de programação. Simples, direto ao pont
 
 ---
 
-### ✉️ Template de E-mail Marketing  
+### ✉️ Templates de E-mail Marketing  
 **Linguagens:** HTML + CSS  
-Um template responsivo para campanhas — ideal para estudos de layout, organização de código e boas práticas na construção de e-mails HTML.
+Tamplates responsivos para campanhas — ideal para estudos de layout, organização de código e boas práticas na construção de e-mails HTML.
 
 ---
 

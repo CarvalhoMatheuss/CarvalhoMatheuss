@@ -72,13 +72,6 @@ Projeto com diagramas e documentação — perfeito para treinar modelagem, flux
 
 ---
 
-## 📊 GitHub Stats
-
-![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarvalhoMatheuss&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarvalhoMatheuss&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🤝 Colabore comigo!
 Curtiu algum projeto? Quer sugerir melhorias?  
 Manda um **issue**, um **pull request**, ou só troca uma ideia comigo.  
